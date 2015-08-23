@@ -1,3 +1,5 @@
+# Music Replacer
+
 Music Replacer is an add-on for Kerbal Space Program that provides support for replacing music withn the game via configuration files.  The following is an example configuration with a detailed description of all the attributes that can be used:
 
 <pre>
