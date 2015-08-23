@@ -1,0 +1,32 @@
+{
+     "NAME":"Music Replacer",
+	 "URL":"https://raw.githubusercontent.com/jrossignol/MusicReplacer/master/GameData/MusicReplacer/MusicReplacer.version",
+	 "DOWNLOAD":"https://github.com/jrossignol/MusicReplacer/releases",
+     "CHANGE_LOG_URL":"https://raw.githubusercontent.com/jrossignol/MusicReplacer/0.1.0/CHANGES.txt",
+     "GITHUB":{
+         "USERNAME":"jrossignol",
+         "REPOSITORY":"MusicReplacer",
+         "ALLOW_PRE_RELEASE":false
+     },
+     "VERSION":{
+         "MAJOR":0,
+         "MINOR":1,
+         "PATCH":0,
+         "BUILD":0
+     },
+     "KSP_VERSION":{
+         "MAJOR":1,
+         "MINOR":0,
+         "PATCH":4
+     },
+     "KSP_VERSION_MIN":{
+         "MAJOR":1,
+         "MINOR":0,
+         "PATCH":0
+     },
+     "KSP_VERSION_MAX":{
+         "MAJOR":1,
+         "MINOR":0,
+         "PATCH":4
+     }
+ } 
