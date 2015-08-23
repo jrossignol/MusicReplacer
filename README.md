@@ -39,7 +39,7 @@ MUSIC_REPLACER
         //
         // Required:  Yes
         //
-        musicURL = MusicReplacer/example_music
+        musicURL = MyModDirectory/example_music
 
         // Set this to true to clear music from existing lists 
         // (constructionPlaylist or spacePlaylist).  If this is set for
