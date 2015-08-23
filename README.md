@@ -80,3 +80,5 @@ MUSIC_REPLACER
     }
 }
 </pre>
+
+Music Replacer is developed by nightingale under the [MIT license](https://raw.githubusercontent.com/jrossignol/MusicReplacer/master/LICENSE.txt).
